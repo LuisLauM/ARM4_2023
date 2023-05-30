@@ -8,8 +8,9 @@ Repositorio para las clases del curso AlwaysR, Módulo 4
 * Instructor:
 
 ## Participantes
-* Participante 1
-* Participante 2
+* Hector Chuquillanqui
+* Kristian Pinazo
+* Stevens Nils Lucero
 
 ## Temas
 * Tema 1
